@@ -6,19 +6,20 @@ title: Course Information
 
 ## Overview
 
-Insert description paragraph
+This workshop will cover best practises for teaching programming and related skills and provide oppotunities to try out these methods. It is focused on the delivery of the materials that are part of the University of Exeter Coding for Reproducible Research initative but is open to anyone who currently delivers or plans to deliver any form of training in programming 
 
-## This course will cover:  
+## At the end of this workshop you will be able to:  
 
-- Bullet point learning objectives
+- Describe the ethos of the Coding for Reproducible Research initative
+- Evaluate the bene
 
 ## Pre-requisite knowledge
 
-Specify as either essential or preferable, and try to relate to courses we provide and their learning objectives.
+None.
 
 ## Workshop Format
 
-This a hybrid workshop run over XX sessions. The [schedule can be found here](https://uniexeterrse.github.io/UoE-workshop-template/schedule.html). 
+This a hybrid workshop run over 2 sessions. The [schedule can be found here](https://uniexeterrse.github.io/UoE-workshop-template/schedule.html). 
 
 ## Upcoming course dates
 
