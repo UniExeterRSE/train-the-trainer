@@ -6,12 +6,15 @@ title: Course Information
 
 ## Overview
 
-This workshop will cover best practises for teaching programming and related skills and provide oppotunities to try out these methods. It is focused on the delivery of the materials that are part of the University of Exeter Coding for Reproducible Research initative but is open to anyone who currently delivers or plans to deliver any form of training in programming 
+There is an body of evidence from educational psychology that suggests that the optimal strategies for teaching and learning are subject-specific. What works for teaching english, physics or maths does not nesscessarily translate to the teaching of programming. This workshop is aimed at those interested in delivering workshops on programming or computer skills. It will provide a background in pedagogical concepts relevant for the teaching of computational skills, discuss mechanisms for supporting the learning of these skills, provide time to practise relevant teaching styles and strategise for when things don't go to plan. It is provided as part of the University of Exeter Coding for Reproducible Research Initiative. Attending this workshop, does not mean we expect you to deliver on this programme, but is part of a wider effort to expand the capacity of knowledge sharers in this area. 
 
 ## At the end of this workshop you will be able to:  
 
-- Describe the ethos of the Coding for Reproducible Research initative
-- Evaluate the bene
+-	describe the aims of and model behind the Coding for Reproducible Research intiative
+-	reflect on the process that novice learners navigate when introduced to a new skillset
+-	identify strategies for success when facilitating workshops for novices
+-	appraise your own teaching style
+- prepare for the unexpected
 
 ## Pre-requisite knowledge
 
@@ -21,25 +24,16 @@ None.
 
 This a hybrid workshop run over 2 sessions. The [schedule can be found here](https://uniexeterrse.github.io/train-the-trainer/schedule.html). 
 
-## Upcoming course dates
+## Upcoming & previous course dates
 
 | Dates | Time  | Venue | Sign up link |
 |--- |--- |--- | --- |
-| TBC |  | | |
+| 21st & 28th September | 1:30-4:30pm | Training Room 4, Old Library, Streatham Campus | Registration is closed |
 
-Registration for this course is handled by [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/)
-
-## Set-up instructions for attendees
-
-If you have registered for this course you can find the [instructions for setting up your computer here.](https://uniexeterrse.github.io/train-the-trainer/setup.html) 
 
 ## Start course
 
-If you are unable to attend any of the dates above the [notes for this course are available here](https://uniexeterrse.github.io/train-the-trainer/contents.html) and are freely available to work through in your own time. Please note that you will need to have completed the set up instructions above.
-
-## Follow up courses
-
-On completion of these course you will be invited to join a network of other participants. This is a supportive forum for you to ask follow up question and receive tailed invited to follow on courses.
+If you are unable to attend any of the dates above the [notes for this course are available here](https://uniexeterrse.github.io/train-the-trainer/contents.html) and are freely available to work through in your own time. 
 
 ## Feedback
 
@@ -51,6 +45,6 @@ If you are interested in becoming part of our community of workshop helpers, lea
 
 ## Acknowledgements
 
-This course was adapted from XXX and has been developed by the University of Exeter Research Software Engineering Group and [a team of generous volunteers](https://uniexeterrse.github.io/train-the-trainer/acknowledgements.html) who are anthuastic about sharing their skills with the wider research community. It;s provision is dependent on the time of these volunteers. If you have benefited in any way from this course and want to support it's long term sustainablity then please take the time to complete our feedback survey, recommend it to your collegues, and enthuse about it to your senior leadership team. 
+This course was adapted from the Carpentries materials and has been developed by the University of Exeter Research Software Engineering Group and associated members. If you have benefited in any way from this course and want to support it's long term sustainablity then please take the time to complete our feedback survey, recommend it to your collegues, and enthuse about it to your senior leadership team. 
 
 This workshop is brought to you by the University of Exeter Research Software Engineering Group, [University of Exeter Institute of Data Science and Artificial Intelligence](https://www.exeter.ac.uk/research/idsai/), [University of Exeter Researcher Development](https://www.exeter.ac.uk/research/doctoralcollege/early-career-researchers/traininganddevelopment/rdprogramme/) and the [University of Exeter Doctoral College](https://www.exeter.ac.uk/research/doctoralcollege/).
