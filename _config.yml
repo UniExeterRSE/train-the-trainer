@@ -1,9 +1,9 @@
 # Basic options
-title: Workshop Name
-short_name: workshop-name
-developers: [A name]
-description: One sentence description of workshop.
-n_sessions: 3
+title: Coding For Reproducible Research:Train the Trainer
+short_name: Train the Trainer
+developers: E Hannon
+description: Development of teaching skills for the delivery of programming workshops.
+n_sessions: 2
 prereq: NA
 
 
