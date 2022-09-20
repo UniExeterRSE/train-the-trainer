@@ -47,6 +47,14 @@ Inclusive welcoming community who have a passion to exchange knowledge and inspi
 
 ## What we offer
 
+- Introduction to Python
+- Introduction to R
+- Introduction to Unix
+- Introduction to HPC at Exeter
+- Software development best practice
+- Introduction to GitHub and version control
+- Introduction to Computational Thinking
+- Coding Good practise
 
 
 
