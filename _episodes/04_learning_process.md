@@ -16,7 +16,7 @@ In this session we will spend some time thinking about how people learn new skil
 
 We can think of the learning process as a journey through a number of stages. One such model of this process is the Dreyfus model of skill acquisition. 
 
-![Dreyfus model](fig/skill-level.png)
+![Dreyfus model](/fig/skill-level.png)
 
 In the figure above we have simplifed the model to three distinct stages: 
 
@@ -47,7 +47,7 @@ A competent practitioner has a mental model that is useful for everyday purposes
 
 An expert has a densely populated and connected mental model that is especially good for problem solving. They quickly connect concepts that others may not see as being related. They may have difficulty explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
 
-![Mental models](fig/mental_models.jpeg)
+![Mental models](/fig/mental_models.jpeg)
 
 In the majority of the workshops we will be working with novice learners. We can see from the diagram above that if we are one or two stages ahead of our learners, the way that we think about a problem is likely very different. 
 
