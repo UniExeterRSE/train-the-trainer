@@ -53,3 +53,9 @@ Building awareness of how you can represent the same concept in multiple differe
 ### What Problem?
 
 Experts are also better at diagnosing errors than novices or competent practitioners. If faced with an error message while teaching, an expert will often automatically diagnose and solve a problem before a novice has even finished reading the error message. Because of this, it is very important while teaching to be explicit about the process you are using to engage with errors, even if they seem trivial to you, as they often will.
+
+### Advantages of being an expert
+
+As we have seen, the high connectivity of an expert’s mental model poses challenges while teaching novices. However, that is not to say that experts cannot be great teachers! Because of their well-connected knowledge, self-aware experts are well-poised to help students make meaningful connections, to confidently turn an error into a learning opportunity, or to explain a complex topic in multiple ways. Experts can be highly effective as long as they learn to identify and correct for their own expert awareness gaps. 
+
+
