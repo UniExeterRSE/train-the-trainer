@@ -75,14 +75,16 @@ Correcting learners’ misconceptions is at least as important as presenting the
 
 The middle category of misconceptions is the most useful type to watch out for in our workshops. While teaching, we want to expose learners’ broken models so that we can help them begin to deconstruct them and build better ones in their place.
 
-> ** Group Activity **
+> #### Group Activity
+> 
 > Think of situation you have been in as a learner and a misconception that has interfered with your learning. 
 
 ## Tailoring delivery to optimise learning
 
 Now we have considered how learners will process the material we deliver, let's think about mechanisms for optmising the development of effective mental maps. 
 
-> ** Group Activity **
+> #### Group Activity 
+> 
 > Considering what we have just covered, think about strategies to incorporate into delivering to promote learners building effect mental maps. 
 
 
