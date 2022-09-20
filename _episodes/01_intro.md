@@ -9,6 +9,9 @@ toc: true
 
 ## Welcome
 
+There is an body of evidence from educational psychology that suggests that the optimal strategies for teaching and learning are subject-specific. What works for teaching english, physics or maths does not nesscessarily translate to the teaching of programming. 
+
+
 This workshop is aimed at those interested in delivering workshops on programming or computer skills. It will provide a background in pedagogical concepts relevant for the teaching of computational skills, discuss mechanisms for supporting the learning of these skills, provide time to practise relevant teaching styles and strategise for when things don't go to plan. It is provided as part of the University of Exeter Coding for Reproducible Research Initiative. Attending this workshop, does not mean we expect you to deliver on this programme, but is part of a wider effort to expand the capacity of knowledge sharers in this area.
 
 
