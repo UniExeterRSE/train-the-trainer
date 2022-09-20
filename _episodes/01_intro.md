@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Welcome
+title: Workshop Overview
 order: 1
 session: 1
-length: 10
+length: 15
 toc: true
 ---
 
