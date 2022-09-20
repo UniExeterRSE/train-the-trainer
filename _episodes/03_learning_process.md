@@ -1,9 +1,9 @@
 ---
 layout: page
 title: How do we learn? 
-order: 4
+order: 3
 session: 1
-length: 20
+length: 40
 toc: true
 ---
 
