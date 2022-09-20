@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introductions
+title: Welcome
 order: 1
 session: 1
 length: 10
@@ -9,19 +9,29 @@ toc: true
 
 ## Welcome
 
-This workshop, and the others in the series, were put together by the Research Software Engineering Group supported by a team of volunteers. It has been adpated/influenced by XXX. This is as part of an ongoing initiative to provide training for staff and students to expand their skillsets and position themselves to confidently perform the informatics elements of their research projects in an efficient and reproducible way. The programme and workshops are under constant evoltuion, and we are grateful for your feedback which is a core component of this process. 
+This workshop is aimed at those interested in delivering workshops on programming or computer skills. It will provide a background in pedagogical concepts relevant for the teaching of computational skills, discuss mechanisms for supporting the learning of these skills, provide time to practise relevant teaching styles and strategise for when things don't go to plan. It is provided as part of the University of Exeter Coding for Reproducible Research Initiative. Attending this workshop, does not mean we expect you to deliver on this programme, but is part of a wider effort to expand the capacity of knowledge sharers in this area.
 
-We will start by introducing the workshop leaders and helpers. We are all here because we are passionate about sharing our knowledge and supporting the development of our collegues. For some of us, this is not a requirement of our current position and we are doing this at the margins of our time. 
 
-We will have a collaborative document where we can post resources and answer Qs. You are welcome to introduce yourselfs at the top of that document. 
+## Learning objectives
+
+By the end of the two sessions, you should be able to 
+
+-	describe the aims of and model behind the Coding for Reproducible Research intiative
+-	reflect on the process that novice learners navigate when introduced to a new skillset
+-	identify strategies for success when facilitating workshops for novices
+-	appraise your own teaching style
+- prepare for the unexpected
+
+## Acknowledgements
+
+This workshop has been adapted from the (Carpentries Train the Trainer workshop)[https://carpentries.org/]. The programme and workshops are under constant evolution, your feedback is a core component of this process and we are grateful for your contributions here. 
 
 ## Housekeeping
 
-The workshop in organised into episodes of content, which can be seen in the workshop schedule available on the course website. Our aim is to have an official break every 60-90 mintues, but there will also be periods inbetween deomstrations where you are free to take additional comfort breaks if required.  This workshop will be delivered by the following methods... <live coding> <demonstrations and exercises>. Inclusion of interactive quizes?
-  
+Introduction of workshop leader and helpers.
 
-Our aim is to be responsive to the needs of the group, both in person and virtual. Therefore, think of the schedule as a guide rather than a strict timetable. We welcome questions and queries as we go along, there are helpers in the room so raise your hand if you need assistance. There is also a dedicated helper for the virtual participants so please raise your virtual hand to attract their attention. In order to try to provide equality for virtual and in person participants we request that the Teams/Zoom chat is used minimally and all questions/comments etc are posted in our collaborative notes document. This will be saved and distributed at the end of the workshop.  
+The workshop in organised into episodes of content, which can be seen in the workshop schedule available on the course website. Our aim is to have an official break every 60-90 mintues, but there will also be periods inbetween deomstrations where you are free to take additional comfort breaks if required. Our aim is to be responsive to the needs of the group, both in person and virtual. Therefore, think of the schedule as a guide rather than a strict timetable. We welcome questions and queries as we go along, so raise your hand if you need assistance.
 
- Highlight the code of conduct - essentially be respectful and aware that we all have different backgrounds, xperiences and viewpoints.
+This workshop will be delivered by alternating short informal presentations and group activities. Your contributions are important to the learning process so we hope there will be high levels of engagement. However, if you are not confident speaking in front of the group, hopefully the group activities will provide a space for you to voice your ideas. With this in mind, we ask that during these interactions everyone is respectful. We allo want to highlight that we have a code of conduct and by attending this workshop you are agreeing to abide by it. 
   
-  Let's get started.
+Let's get started.
