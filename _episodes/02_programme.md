@@ -57,4 +57,18 @@ Inclusive welcoming community who have a passion to exchange knowledge and inspi
 - Coding Good practise
 
 
+## Working model
 
+We provide an annual programme of hybrid workshops, open to any staff or student, from any college or department and accessible from any campus. Workshops will be organised in 0.5 day blocks and facilitated by a lead and a number of demonstrators/helpers, including a nominated helper to support the engagement of the remote participants. 
+
+While members of the Research Software Engineering Group will provide a vital resource to enable the delivery of these workshops, we want to capitalise on the existing expertise across research domains and provide oppotunities for them to contribute to these workshops. Ensure we have a broad bases of individuals to deliver these sessions, is a key component of the sustainability of the programme. However, we recognise that everyone is time poor so we need make it as easy as possible for someone to contribute, if they are interested. 
+
+Course materials have been developed by a series of working groups. Each workshop has it's own public GitHub respository such that they can be re-used and evolved as nesesscery. 
+
+We also aim to standardize/automate processes as far as possible including automated preregistration surveys, and feedback surveys.
+
+We are also grateful to Researcher Development & the Doctoral College who are giving us access to their training rooms, as well as handling registration and advertising. 
+
+The final part to ensure that we have adequate capacity to deliver the workshops is to support individuals to be part of our team. Anyone who attends a workshop is in a position to be a helper at a subsequent workshop, anyone who has been a helper at a couple of workshops could become a workshop leader. By creating a sense of community, and providing oppotunities for personal development, we aim to encourage this natural progression.  
+
+To support this we provide this Train the Trainer workshop, as well as monthly community calls, which help ensure the smooth running of the programme. 
