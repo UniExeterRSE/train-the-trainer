@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Motivation and demotivation
-order: 8
-session: 1
+order: 7
+session: 2
 length: 40
 toc: true
 ---
