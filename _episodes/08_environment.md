@@ -30,3 +30,17 @@ Share some advice for success – including your confidence that they can do it!
 Whet learners’ appetites for workshop content. In most cases, your learners chose to attend this workshop, but they may yet be unclear on whether it will be worthwhile. This is a great chance to get them excited about the prospect of learning what you have to teach!
 
 ## Managing a hybrid environment
+
+Make a level playing field - discourage use of the chat function, instead provide a collaborative document or question app that all learners can contribute to.
+
+Written narrative of content to online participants in case of issues with audio or connection strength
+
+Consider putting the remote participants into a breakout room during activities with the relevant helper.
+
+Encourage virtual participants to turn there cameras on. Research has shown that if meeting attendees log on and they see everyone else has their camera on, they will turn theirs on as well. In contrast if they log on and see no one has there cameras on they are lkely to keep theres off. Essentially to encourage you need to ensure that when the first participant logs in there is someone there with their camera on. This can be the helper assigned to look after the remote participants. 
+
+Log into the Teams call early, so you are ready to welcome the remote participants. If you are able to man the call - post a message in the chat to let them know they are in the right place and you will be with them shortly. 
+
+
+
+Let the people in the room know there are people connected remotely, either by displaying them on the screen. They can then help you identify if someone is trying to speak. 
