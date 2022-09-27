@@ -2,7 +2,7 @@
 layout: page
 title: Live Coding
 order: 6
-session: 1
+session: 2
 length: 40
 toc: true
 ---
