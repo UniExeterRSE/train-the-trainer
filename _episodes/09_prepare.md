@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Preparing for success as a teacher
-order: 7
-session: 1
-length: 40
+order: 9
+session: 2
+length: 20
 toc: true
 ---
 
@@ -46,3 +46,25 @@ If the workshop you are tecahcing has been delivered before, either by yourself 
 
 It is always preferable to teach in a team. We recommend that workshops are facilitated with a workshop lead and workshop helpers. Introducing the team to each other before hand is advisable as well as ensuring everyone is aware of their specific roles. If you have taught the workshop together before then there is also the oppotunity for collective feedback. 
 
+## Preparing for the unexpected
+
+We've put in all this effort to prepare our for delivering our workshop, we are motivated to be an effective teacher and implement what we have learnt. However, out of nowhere something we could never have predicted throws us. We feel ourselves losing our cool, and are desparate to get back on track for fear that it might neatively affect our reputation as either a teacher or expert in the area (or even both). Teaching is not the only activity where the fear of something going wrong can negatively affect our cofidence or willingnees to complese that task. Here we are going to allow ourselves to catastrophise. We are also going to take advanatge of the fact that here are are not in fact up at the front of the clas with the pressure that brings and use our collective experience and problem solving abilties to strategise potential solutions. 
+
+> **Group activity**
+> 
+> In small groups, discuss the teaching scenarioes that you fear disrupting your workshop. How realistic are they? How catestrophic would they be? 
+> We will collate these scenarioes into a master list at the end of the activity.
+>
+
+
+> **Group activity**
+> 
+> In small groups, come up with some solutions to some of the proposed disruptive scenarioes. 
+> Are there any for which you really are unsure how you would handle?
+> 
+
+Hopefully for most of the scenarioes, given the chance to trouble shoot away from the pressure pot of the classroom, you or someone in the wider came up with some solutions. Most learners are reasonable human beings and will be understanding when somthing out of your control/unpredictable happens. Most of them may be teachers themselves and have some sympathy with your situation. Below we will list some common solutions.
+
+* **Expectation management - our own** Often it is the pressure we put on ourselves to be the perfect teacher that we are afraid to disprove. Reminding ourselves that our teaching skill (and workshop content) is continually evolving subject to practice and feedback. We should never get complacent it. Reframing tecahing as just more practice of the skill we are developing, should help remove the urge to be perfect.   
+* **Expectation management - of the learners** As we stand at the front of the class we feel we are there to represent the expert in the topic of the workshop. Remember all that we discussed about how being expert does not nessecarily mean you are going to be an effective teacher. The learners are far more interested in your ability to share your knowledge than the extent of your knowledge. Realistically you only need to be a few steps ahead of them to be able to lead a session. However if teaching is new to you, or the workshop you are delivering is new to you, set the right tone for the session by acknowledging this.  
+* **One student or a couple of students are determining the speed of the lesson** There are a number of scenarioes where one up to handful of students are requiring a fair bit of attention, leading you to feel guilty about the majority sitting around waiting idly while simultaneously feeling guilty about deciding to move on. Maybe they have had a technical failure or maybe they are asking a lot of questions, or maybe they are taking longer on the activities.It is important here to draw on the team of instructors and helpers who should be vigilant for learners who are falling behind and intervene early so that they do not become frustrated and give up. Another resource you can draw on is the other learners, On option is to encourage learners to help others nearby when they feel comfortable doing so. Teaching is a great way to level up learning. Note that you will need an icebreaker before most learners will take this advice. An alternative  option here is to get the learners to work in pairs. 
