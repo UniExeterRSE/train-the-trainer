@@ -52,19 +52,21 @@ We've put in all this effort to prepare our for delivering our workshop, we are 
 
 > **Group activity**
 > 
-> In small groups, discuss the teaching scenarioes that you fear disrupting your workshop. How realistic are they? How catestrophic would they be? 
+> In small groups, discuss the teaching scenarios that you fear disrupting your workshop. How realistic are they? How catastrophic would they be? 
 > We will collate these scenarioes into a master list at the end of the activity.
 >
 
 
 > **Group activity**
 > 
-> In small groups, come up with some solutions to some of the proposed disruptive scenarioes. 
+> In small groups, come up with some solutions to some of the proposed disruptive scenarios. 
 > Are there any for which you really are unsure how you would handle?
 > 
 
-Hopefully for most of the scenarioes, given the chance to trouble shoot away from the pressure pot of the classroom, you or someone in the wider came up with some solutions. Most learners are reasonable human beings and will be understanding when somthing out of your control/unpredictable happens. Most of them may be teachers themselves and have some sympathy with your situation. Below we will list some common solutions.
+Hopefully for most of the scenarios, given the chance to trouble shoot away from the pressure pot of the classroom, you or someone in the wider came up with some solutions. Most learners are reasonable human beings and will be understanding when somthing out of your control/unpredictable happens. Most of them may be teachers themselves and have some sympathy with your situation. Below we will list some common solutions.
 
 * **Expectation management - our own** Often it is the pressure we put on ourselves to be the perfect teacher that we are afraid to disprove. Reminding ourselves that our teaching skill (and workshop content) is continually evolving subject to practice and feedback. We should never get complacent it. Reframing tecahing as just more practice of the skill we are developing, should help remove the urge to be perfect.   
+
 * **Expectation management - of the learners** As we stand at the front of the class we feel we are there to represent the expert in the topic of the workshop. Remember all that we discussed about how being expert does not nessecarily mean you are going to be an effective teacher. The learners are far more interested in your ability to share your knowledge than the extent of your knowledge. Realistically you only need to be a few steps ahead of them to be able to lead a session. However if teaching is new to you, or the workshop you are delivering is new to you, set the right tone for the session by acknowledging this.  
+
 * **One student or a couple of students are determining the speed of the lesson** There are a number of scenarioes where one up to handful of students are requiring a fair bit of attention, leading you to feel guilty about the majority sitting around waiting idly while simultaneously feeling guilty about deciding to move on. Maybe they have had a technical failure or maybe they are asking a lot of questions, or maybe they are taking longer on the activities.It is important here to draw on the team of instructors and helpers who should be vigilant for learners who are falling behind and intervene early so that they do not become frustrated and give up. Another resource you can draw on is the other learners, On option is to encourage learners to help others nearby when they feel comfortable doing so. Teaching is a great way to level up learning. Note that you will need an icebreaker before most learners will take this advice. An alternative  option here is to get the learners to work in pairs. 
