@@ -3,18 +3,18 @@ layout: page
 title: Live Coding
 order: 6
 session: 2
-length: 40
+length: 45
 toc: true
 ---
 
-We strongly recommend delivering material to beginners by "live coding". Live coding is where the workshop lead has their screen projected to the learners and works through the lesson typing in the code, explaining it as they go. However, the instructor is not live coding in a vacuum. Importantly, learners are strongly encouraged to “code-along” with the instructor. 
+We strongly recommend delivering material to beginners by "live coding". Live coding is where the workshop lead has their screen projected to the learners and works through the lesson typing in the code, explaining it as they go. However, the instructor is not live coding in a vacuum. Importantly, learners are strongly encouraged to "code-along" with the instructor. 
 
-> #### Group Activity
+> **Group Activity**
 >
 > List some advantages and challenges of participatory live coding from both a learner’s and an instructor’s point of view.
+>
 
-
-Live coding providing learners with continuous opportunities for practice (every time they type in a line of code) and continuous feedback (their code either works or fails with an error message). It is important to keep in mind, however, that feedback is not helpful if you cannot understand it. Many error messages are obscure and not written with novices in mind. However, these errors, present oppotunities for learning if they are explained carefully. 
+Live coding provides learners with continuous opportunities for practice (every time they type in a line of code) and continuous feedback (their code either works or fails with an error message). It is important to keep in mind, however, that feedback is not helpful if you cannot understand it. Many error messages are obscure and not written with novices in mind. However, these errors, present oppotunities for learning if they are explained carefully. 
 
 
 #### Some advantages are:
@@ -30,10 +30,10 @@ Live coding providing learners with continuous opportunities for practice (every
 
 #### Some challenges are:
 
-It requires instructors to be able to improvise when things go wrong or when learners have questions not directly addressed in the text of the lesson.
-It can be hard for learners to listen and type at the same time, due to the
+* It requires instructors to be able to improvise when things go wrong or when learners have questions not directly addressed in the text of the lesson.
+* It can be hard for learners to listen and type at the same time, due to the
 split-attention effect we discussed earlier. This is why it is very important that instructors first explain what they are going to do, then say what they are typing as they type it, and then explain what they did again afterwards.
-It may take a bit of practice for instructors to get used to thinking aloud while coding in front of an audience.
+* It may take a bit of practice for instructors to get used to thinking aloud while coding in front of an audience.
 
 
 ## Top Ten Tips for Participatory Live Coding in a Workshop
@@ -50,7 +50,7 @@ It may take a bit of practice for instructors to get used to thinking aloud whil
 10. **Have fun!** It is OK to use humor and improvisation to liven up the workshop. This becomes easier when you are more familiar with the material, and more relaxed. Start small, even just saying ‘that was fun’ after something worked well is a good start.
 
 
-> #### Group activity
+> **Group activity**
 >
 > Split into groups of three and assign roles, which will rotate: presenter, timekeeper, note-taker.
 > 
